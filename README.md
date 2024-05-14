@@ -9,13 +9,10 @@ Contact me: niesen@whu.edu.cn
 
 ## Screenshots
 
-![image-20240514180630550](assets\image-20240514180630550.png)
-
-![image-20240514181131232](assets\image-20240514181131232.png)
-
-![1715681651677](assets\1715681651677.png)
-
-![image-20240514181542615](assets\image-20240514181542615.png)
+![image](https://github.com/Summu77/Live-Face-Check/assets/115442864/9f6986bc-3761-42a8-9df5-a864faa29ce0)
+![image](https://github.com/Summu77/Live-Face-Check/assets/115442864/5b209fd9-11b1-4bdb-a6e6-d5c9752dc676)
+![image](https://github.com/Summu77/Live-Face-Check/assets/115442864/01e77703-3287-452d-a783-b6b5b7f2027b)
+![image](https://github.com/Summu77/Live-Face-Check/assets/115442864/c84ef8ff-e99a-4d6d-a9cd-53a9de8e5a15)
 
 ## Requirement
 
@@ -53,6 +50,7 @@ The system is built on Flask, which is simple and easy to use, and you can quick
 If you have any suggestions, please feel free to contact me!
 
 If you want to add, remove, or replace methods, please modify the API folder!
+
 ## More Info about Method
 
 Still updating...
