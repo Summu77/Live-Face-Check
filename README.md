@@ -55,3 +55,6 @@ If you want to add, remove, or replace methods, please modify the API folder!
 
 Still updating...
 
+The project flow chart is shown below：
+![2d64ae99b8faf2724f7890d2a3d4c44](https://github.com/Summu77/Live-Face-Check/assets/115442864/d3a344ac-ae4e-4aa5-b874-44dd31415d0f)
+
